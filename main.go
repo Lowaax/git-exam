@@ -16,3 +16,7 @@ func main() {
 	// to add : color functionality
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
+
+func tacos(){
+	
+}
